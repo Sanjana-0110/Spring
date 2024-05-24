@@ -1,0 +1,3 @@
+com\spring\orm\model\Dept.class
+com\spring\orm\dao\DeptDAO.class
+com\spring\orm\controller\DeptController.class
